@@ -84,7 +84,7 @@ This case study highlights how **data analytics transformed Lead Prosper’s lea
 
 Moving forward, continuous **performance tracking, strategic decision-making, and optimization** will ensure that **Lead Prosper remains an industry leader**.
 
-**Report Link:** [View Full Project with Charts]()
+**Report Link:** [View Full Project with Charts](https://github.com/TanvirHasan23/Lead-Data-Analysis-And-Optimizing/blob/main/Analysis3_Lead%2BProsper_PDF_Report_Mar2024%2Bto%2BDec2024_LP_Accounting.pdf)
 
 **Dashboards Link Here:** [Dashboards](https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY)
 
